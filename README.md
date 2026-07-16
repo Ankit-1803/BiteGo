@@ -178,21 +178,6 @@ Optimized for:
 
 ---
 
-# 🔮 Future Improvements
-
-- 💳 Payment Gateway
-- ❤️ Wishlist
-- 📦 Order History
-- ➕ Quantity Increment/Decrement
-- 🌙 Dark Mode
-- 📍 Multiple Addresses
-- ⭐ Favorites
-- 🍽 Better Restaurant Filters
-- 📊 Admin Dashboard
-- 📍 Live Order Tracking
-
----
-
 # 👨‍💻 Author
 
 **Ankit Raj**
