@@ -35,9 +35,9 @@ function RestaurantMenu(){
     
     //This is bcz Restaurent Name API can't work 
     async function fetchMenu() {
-        const data ="https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6315&lng=77.2167&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";
-        const response = await fetch( "https://corsproxy.io/?" + encodeURIComponent(data));
-        const result = await response.json();
+        const data =await fetch("https://cors-by-codethread-for-swiggy.vercel.app/cors/dapi/restaurants/list/v5?lat=28.6315&lng=77.2167&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
+        
+        const result = await data.json();
         let a=result?.data?.cards[4]
         let b=a?.card?.card?.gridElements?.infoWithStyle?.restaurants
         let randomValue=Math.floor(Math.random() * 8);
