@@ -1,0 +1,51 @@
+@import "tailwindcss";
+@import "@flaticon/flaticon-uicons/css/all/all";
+
+*{
+    box-sizing: border-box;
+}
+
+.filterBtn{
+    border: 1px solid rgb(235, 229, 229);
+    padding: 8px 16px;
+    border-radius: 40px;
+    box-shadow: 3px 3px rgb(216,215 , 215);
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.active{
+    background-color: #3e4152;
+    color: white;
+    border: 1px solid;
+}
+
+.active i{
+    display: block;
+}
+
+.loader {
+  --color-1: #fff;
+  --size: 1.05px;
+
+  width: calc(48 * var(--size));
+  height: calc(48 * var(--size));
+  border-radius: 50%;
+  display: inline-block;
+  border-top: calc(3 * var(--size)) solid var(--color-1);
+  border-right: calc(3 * var(--size)) solid transparent;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  padding: 50px;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

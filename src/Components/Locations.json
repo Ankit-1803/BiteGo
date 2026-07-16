@@ -1,0 +1,644 @@
+[
+  {
+    "id": 1,
+    "place": "New Delhi",
+    "address": "Connaught Place",
+    "description": "Connaught Place, New Delhi, Delhi, India"
+  },
+  {
+    "id": 2,
+    "place": "New Delhi",
+    "address": "Karol Bagh",
+    "description": "Karol Bagh, New Delhi, Delhi, India"
+  },
+  {
+    "id": 3,
+    "place": "New Delhi",
+    "address": "Lajpat Nagar",
+    "description": "Lajpat Nagar, New Delhi, Delhi, India"
+  },
+  {
+    "id": 4,
+    "place": "New Delhi",
+    "address": "Saket",
+    "description": "Saket, New Delhi, Delhi, India"
+  },
+  {
+    "id": 5,
+    "place": "New Delhi",
+    "address": "Rohini",
+    "description": "Rohini, New Delhi, Delhi, India"
+  },
+  {
+    "id": 6,
+    "place": "New Delhi",
+    "address": "Dwarka",
+    "description": "Dwarka, New Delhi, Delhi, India"
+  },
+  {
+    "id": 7,
+    "place": "Badarpur",
+    "address": "Badarpur",
+    "description": "Badarpur, Badarpur, Delhi, India"
+  },
+  {
+    "id": 8,
+    "place": "Noida",
+    "address": "Sector 18",
+    "description": "Sector 18, Noida, Uttar Pradesh, India"
+  },
+  {
+    "id": 9,
+    "place": "Noida",
+    "address": "Sector 62",
+    "description": "Sector 62, Noida, Uttar Pradesh, India"
+  },
+  {
+    "id": 10,
+    "place": "Noida",
+    "address": "Sector 137",
+    "description": "Sector 137, Noida, Uttar Pradesh, India"
+  },
+  {
+    "id": 11,
+    "place": "Greater Noida",
+    "address": "Alpha 1",
+    "description": "Alpha 1, Greater Noida, Uttar Pradesh, India"
+  },
+  {
+    "id": 12,
+    "place": "Greater Noida",
+    "address": "Pari Chowk",
+    "description": "Pari Chowk, Greater Noida, Uttar Pradesh, India"
+  },
+  {
+    "id": 13,
+    "place": "Faridabad",
+    "address": "Sector 15",
+    "description": "Sector 15, Faridabad, Haryana, India"
+  },
+  {
+    "id": 14,
+    "place": "Faridabad",
+    "address": "Sector 21C",
+    "description": "Sector 21C, Faridabad, Haryana, India"
+  },
+  {
+    "id": 15,
+    "place": "Faridabad",
+    "address": "NIT",
+    "description": "NIT, Faridabad, Haryana, India"
+  },
+  {
+    "id": 16,
+    "place": "Faridabad",
+    "address": "Ballabgarh",
+    "description": "Ballabgarh, Faridabad, Haryana, India"
+  },
+  {
+    "id": 17,
+    "place": "Gurugram",
+    "address": "Cyber Hub",
+    "description": "Cyber Hub, Gurugram, Haryana, India"
+  },
+  {
+    "id": 18,
+    "place": "Gurugram",
+    "address": "Sector 29",
+    "description": "Sector 29, Gurugram, Haryana, India"
+  },
+  {
+    "id": 19,
+    "place": "Gurugram",
+    "address": "Golf Course Road",
+    "description": "Golf Course Road, Gurugram, Haryana, India"
+  },
+  {
+    "id": 20,
+    "place": "Ghaziabad",
+    "address": "Raj Nagar",
+    "description": "Raj Nagar, Ghaziabad, Uttar Pradesh, India"
+  },
+  {
+    "id": 21,
+    "place": "Ghaziabad",
+    "address": "Indirapuram",
+    "description": "Indirapuram, Ghaziabad, Uttar Pradesh, India"
+  },
+  {
+    "id": 22,
+    "place": "Lucknow",
+    "address": "Hazratganj",
+    "description": "Hazratganj, Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "id": 23,
+    "place": "Lucknow",
+    "address": "Gomti Nagar",
+    "description": "Gomti Nagar, Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "id": 24,
+    "place": "Kanpur",
+    "address": "Swaroop Nagar",
+    "description": "Swaroop Nagar, Kanpur, Uttar Pradesh, India"
+  },
+  {
+    "id": 25,
+    "place": "Agra",
+    "address": "Sanjay Place",
+    "description": "Sanjay Place, Agra, Uttar Pradesh, India"
+  },
+  {
+    "id": 26,
+    "place": "Meerut",
+    "address": "Begumpul",
+    "description": "Begumpul, Meerut, Uttar Pradesh, India"
+  },
+  {
+    "id": 27,
+    "place": "Prayagraj",
+    "address": "Civil Lines",
+    "description": "Civil Lines, Prayagraj, Uttar Pradesh, India"
+  },
+  {
+    "id": 28,
+    "place": "Varanasi",
+    "address": "Lanka",
+    "description": "Lanka, Varanasi, Uttar Pradesh, India"
+  },
+  {
+    "id": 29,
+    "place": "Patna",
+    "address": "Boring Road",
+    "description": "Boring Road, Patna, Bihar, India"
+  },
+  {
+    "id": 30,
+    "place": "Patna",
+    "address": "Kankarbagh",
+    "description": "Kankarbagh, Patna, Bihar, India"
+  },
+  {
+    "id": 31,
+    "place": "Muzaffarpur",
+    "address": "Mithanpura",
+    "description": "Mithanpura, Muzaffarpur, Bihar, India"
+  },
+  {
+    "id": 32,
+    "place": "Gaya",
+    "address": "Civil Lines",
+    "description": "Civil Lines, Gaya, Bihar, India"
+  },
+  {
+    "id": 33,
+    "place": "Ranchi",
+    "address": "Main Road",
+    "description": "Main Road, Ranchi, Jharkhand, India"
+  },
+  {
+    "id": 34,
+    "place": "Jamshedpur",
+    "address": "Bistupur",
+    "description": "Bistupur, Jamshedpur, Jharkhand, India"
+  },
+  {
+    "id": 35,
+    "place": "Kolkata",
+    "address": "Park Street",
+    "description": "Park Street, Kolkata, West Bengal, India"
+  },
+  {
+    "id": 36,
+    "place": "Kolkata",
+    "address": "Salt Lake",
+    "description": "Salt Lake, Kolkata, West Bengal, India"
+  },
+  {
+    "id": 37,
+    "place": "Siliguri",
+    "address": "Sevoke Road",
+    "description": "Sevoke Road, Siliguri, West Bengal, India"
+  },
+  {
+    "id": 38,
+    "place": "Jaipur",
+    "address": "MI Road",
+    "description": "MI Road, Jaipur, Rajasthan, India"
+  },
+  {
+    "id": 39,
+    "place": "Jaipur",
+    "address": "Malviya Nagar",
+    "description": "Malviya Nagar, Jaipur, Rajasthan, India"
+  },
+  {
+    "id": 40,
+    "place": "Jodhpur",
+    "address": "Paota",
+    "description": "Paota, Jodhpur, Rajasthan, India"
+  },
+  {
+    "id": 41,
+    "place": "Udaipur",
+    "address": "Fateh Sagar",
+    "description": "Fateh Sagar, Udaipur, Rajasthan, India"
+  },
+  {
+    "id": 42,
+    "place": "Kota",
+    "address": "Talwandi",
+    "description": "Talwandi, Kota, Rajasthan, India"
+  },
+  {
+    "id": 43,
+    "place": "Ahmedabad",
+    "address": "SG Highway",
+    "description": "SG Highway, Ahmedabad, Gujarat, India"
+  },
+  {
+    "id": 44,
+    "place": "Ahmedabad",
+    "address": "Navrangpura",
+    "description": "Navrangpura, Ahmedabad, Gujarat, India"
+  },
+  {
+    "id": 45,
+    "place": "Surat",
+    "address": "Adajan",
+    "description": "Adajan, Surat, Gujarat, India"
+  },
+  {
+    "id": 46,
+    "place": "Vadodara",
+    "address": "Alkapuri",
+    "description": "Alkapuri, Vadodara, Gujarat, India"
+  },
+  {
+    "id": 47,
+    "place": "Rajkot",
+    "address": "Kalawad Road",
+    "description": "Kalawad Road, Rajkot, Gujarat, India"
+  },
+  {
+    "id": 48,
+    "place": "Mumbai",
+    "address": "Bandra West",
+    "description": "Bandra West, Mumbai, Maharashtra, India"
+  },
+  {
+    "id": 49,
+    "place": "Mumbai",
+    "address": "Andheri West",
+    "description": "Andheri West, Mumbai, Maharashtra, India"
+  },
+  {
+    "id": 50,
+    "place": "Mumbai",
+    "address": "Powai",
+    "description": "Powai, Mumbai, Maharashtra, India"
+  },
+  {
+    "id": 51,
+    "place": "Mumbai",
+    "address": "Dadar",
+    "description": "Dadar, Mumbai, Maharashtra, India"
+  },
+  {
+    "id": 52,
+    "place": "Navi Mumbai",
+    "address": "Vashi",
+    "description": "Vashi, Navi Mumbai, Maharashtra, India"
+  },
+  {
+    "id": 53,
+    "place": "Thane",
+    "address": "Ghodbunder Road",
+    "description": "Ghodbunder Road, Thane, Maharashtra, India"
+  },
+  {
+    "id": 54,
+    "place": "Pune",
+    "address": "Koregaon Park",
+    "description": "Koregaon Park, Pune, Maharashtra, India"
+  },
+  {
+    "id": 55,
+    "place": "Pune",
+    "address": "Hinjewadi",
+    "description": "Hinjewadi, Pune, Maharashtra, India"
+  },
+  {
+    "id": 56,
+    "place": "Pune",
+    "address": "Kothrud",
+    "description": "Kothrud, Pune, Maharashtra, India"
+  },
+  {
+    "id": 57,
+    "place": "Nagpur",
+    "address": "Sitabuldi",
+    "description": "Sitabuldi, Nagpur, Maharashtra, India"
+  },
+  {
+    "id": 58,
+    "place": "Nashik",
+    "address": "College Road",
+    "description": "College Road, Nashik, Maharashtra, India"
+  },
+  {
+    "id": 59,
+    "place": "Aurangabad",
+    "address": "CIDCO",
+    "description": "CIDCO, Aurangabad, Maharashtra, India"
+  },
+  {
+    "id": 60,
+    "place": "Bengaluru",
+    "address": "Koramangala",
+    "description": "Koramangala, Bengaluru, Karnataka, India"
+  },
+  {
+    "id": 61,
+    "place": "Bengaluru",
+    "address": "Indiranagar",
+    "description": "Indiranagar, Bengaluru, Karnataka, India"
+  },
+  {
+    "id": 62,
+    "place": "Bengaluru",
+    "address": "Whitefield",
+    "description": "Whitefield, Bengaluru, Karnataka, India"
+  },
+  {
+    "id": 63,
+    "place": "Bengaluru",
+    "address": "HSR Layout",
+    "description": "HSR Layout, Bengaluru, Karnataka, India"
+  },
+  {
+    "id": 64,
+    "place": "Mysuru",
+    "address": "VV Mohalla",
+    "description": "VV Mohalla, Mysuru, Karnataka, India"
+  },
+  {
+    "id": 65,
+    "place": "Hubballi",
+    "address": "Vidyanagar",
+    "description": "Vidyanagar, Hubballi, Karnataka, India"
+  },
+  {
+    "id": 66,
+    "place": "Hyderabad",
+    "address": "Madhapur",
+    "description": "Madhapur, Hyderabad, Telangana, India"
+  },
+  {
+    "id": 67,
+    "place": "Hyderabad",
+    "address": "Gachibowli",
+    "description": "Gachibowli, Hyderabad, Telangana, India"
+  },
+  {
+    "id": 68,
+    "place": "Hyderabad",
+    "address": "Banjara Hills",
+    "description": "Banjara Hills, Hyderabad, Telangana, India"
+  },
+  {
+    "id": 69,
+    "place": "Warangal",
+    "address": "Hanamkonda",
+    "description": "Hanamkonda, Warangal, Telangana, India"
+  },
+  {
+    "id": 70,
+    "place": "Chennai",
+    "address": "T Nagar",
+    "description": "T Nagar, Chennai, Tamil Nadu, India"
+  },
+  {
+    "id": 71,
+    "place": "Chennai",
+    "address": "Anna Nagar",
+    "description": "Anna Nagar, Chennai, Tamil Nadu, India"
+  },
+  {
+    "id": 72,
+    "place": "Chennai",
+    "address": "Velachery",
+    "description": "Velachery, Chennai, Tamil Nadu, India"
+  },
+  {
+    "id": 73,
+    "place": "Coimbatore",
+    "address": "RS Puram",
+    "description": "RS Puram, Coimbatore, Tamil Nadu, India"
+  },
+  {
+    "id": 74,
+    "place": "Madurai",
+    "address": "KK Nagar",
+    "description": "KK Nagar, Madurai, Tamil Nadu, India"
+  },
+  {
+    "id": 75,
+    "place": "Kochi",
+    "address": "MG Road",
+    "description": "MG Road, Kochi, Kerala, India"
+  },
+  {
+    "id": 76,
+    "place": "Kochi",
+    "address": "Kakkanad",
+    "description": "Kakkanad, Kochi, Kerala, India"
+  },
+  {
+    "id": 77,
+    "place": "Thiruvananthapuram",
+    "address": "Palayam",
+    "description": "Palayam, Thiruvananthapuram, Kerala, India"
+  },
+  {
+    "id": 78,
+    "place": "Kozhikode",
+    "address": "Mavoor Road",
+    "description": "Mavoor Road, Kozhikode, Kerala, India"
+  },
+  {
+    "id": 79,
+    "place": "Visakhapatnam",
+    "address": "Dwaraka Nagar",
+    "description": "Dwaraka Nagar, Visakhapatnam, Andhra Pradesh, India"
+  },
+  {
+    "id": 80,
+    "place": "Vijayawada",
+    "address": "Benz Circle",
+    "description": "Benz Circle, Vijayawada, Andhra Pradesh, India"
+  },
+  {
+    "id": 81,
+    "place": "Guntur",
+    "address": "Brodipet",
+    "description": "Brodipet, Guntur, Andhra Pradesh, India"
+  },
+  {
+    "id": 82,
+    "place": "Bhubaneswar",
+    "address": "Saheed Nagar",
+    "description": "Saheed Nagar, Bhubaneswar, Odisha, India"
+  },
+  {
+    "id": 83,
+    "place": "Cuttack",
+    "address": "College Square",
+    "description": "College Square, Cuttack, Odisha, India"
+  },
+  {
+    "id": 84,
+    "place": "Guwahati",
+    "address": "Paltan Bazaar",
+    "description": "Paltan Bazaar, Guwahati, Assam, India"
+  },
+  {
+    "id": 85,
+    "place": "Shillong",
+    "address": "Police Bazar",
+    "description": "Police Bazar, Shillong, Meghalaya, India"
+  },
+  {
+    "id": 86,
+    "place": "Chandigarh",
+    "address": "Sector 17",
+    "description": "Sector 17, Chandigarh, Chandigarh, India"
+  },
+  {
+    "id": 87,
+    "place": "Dehradun",
+    "address": "Rajpur Road",
+    "description": "Rajpur Road, Dehradun, Uttarakhand, India"
+  },
+  {
+    "id": 88,
+    "place": "Amritsar",
+    "address": "Hall Bazaar",
+    "description": "Hall Bazaar, Amritsar, Punjab, India"
+  },
+  {
+    "id": 89,
+    "place": "Ludhiana",
+    "address": "Ferozepur Road",
+    "description": "Ferozepur Road, Ludhiana, Punjab, India"
+  },
+  {
+    "id": 90,
+    "place": "Jalandhar",
+    "address": "Model Town",
+    "description": "Model Town, Jalandhar, Punjab, India"
+  },
+  {
+    "id": 91,
+    "place": "Shimla",
+    "address": "Mall Road",
+    "description": "Mall Road, Shimla, Himachal Pradesh, India"
+  },
+  {
+    "id": 92,
+    "place": "Jammu",
+    "address": "Gandhi Nagar",
+    "description": "Gandhi Nagar, Jammu, Jammu & Kashmir, India"
+  },
+  {
+    "id": 93,
+    "place": "Srinagar",
+    "address": "Lal Chowk",
+    "description": "Lal Chowk, Srinagar, Jammu & Kashmir, India"
+  },
+  {
+    "id": 94,
+    "place": "Raipur",
+    "address": "GE Road",
+    "description": "GE Road, Raipur, Chhattisgarh, India"
+  },
+  {
+    "id": 95,
+    "place": "Bilaspur",
+    "address": "Telipara",
+    "description": "Telipara, Bilaspur, Chhattisgarh, India"
+  },
+  {
+    "id": 96,
+    "place": "Bhopal",
+    "address": "MP Nagar",
+    "description": "MP Nagar, Bhopal, Madhya Pradesh, India"
+  },
+  {
+    "id": 97,
+    "place": "Indore",
+    "address": "Vijay Nagar",
+    "description": "Vijay Nagar, Indore, Madhya Pradesh, India"
+  },
+  {
+    "id": 98,
+    "place": "Gwalior",
+    "address": "City Centre",
+    "description": "City Centre, Gwalior, Madhya Pradesh, India"
+  },
+  {
+    "id": 99,
+    "place": "Jabalpur",
+    "address": "Napier Town",
+    "description": "Napier Town, Jabalpur, Madhya Pradesh, India"
+  },
+  {
+    "id": 100,
+    "place": "Dhanbad",
+    "address": "Bank More",
+    "description": "Bank More, Dhanbad, Jharkhand, India"
+  },
+  {
+    "id": 101,
+    "place": "Bareilly",
+    "address": "Civil Lines",
+    "description": "Civil Lines, Bareilly, Uttar Pradesh, India"
+  },
+  {
+    "id": 102,
+    "place": "Aligarh",
+    "address": "Civil Lines",
+    "description": "Civil Lines, Aligarh, Uttar Pradesh, India"
+  },
+  {
+    "id": 103,
+    "place": "Moradabad",
+    "address": "Ram Ganga Vihar",
+    "description": "Ram Ganga Vihar, Moradabad, Uttar Pradesh, India"
+  },
+  {
+    "id": 104,
+    "place": "Rohtak",
+    "address": "Model Town",
+    "description": "Model Town, Rohtak, Haryana, India"
+  },
+  {
+    "id": 105,
+    "place": "Panipat",
+    "address": "Model Town",
+    "description": "Model Town, Panipat, Haryana, India"
+  },
+  {
+    "id": 106,
+    "place": "Hisar",
+    "address": "Urban Estate",
+    "description": "Urban Estate, Hisar, Haryana, India"
+  },
+  {
+    "id": 107,
+    "place": "Sonipat",
+    "address": "Sector 15",
+    "description": "Sector 15, Sonipat, Haryana, India"
+  }
+]

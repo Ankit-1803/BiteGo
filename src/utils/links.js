@@ -1,0 +1,2 @@
+export let vegIcon="https://i.pinimg.com/564x/61/12/6d/61126d135fe2433d3c744dddc3b0343d.jpg"
+export let nonVegIcon="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Non_veg_symbol.svg/3840px-Non_veg_symbol.svg.png"
