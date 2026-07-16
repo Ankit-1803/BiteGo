@@ -24,6 +24,20 @@ function Shimmer(){
                     <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
                     <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
                     <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
+                    <div className="w-[250px] h-[150px] bg-gray-300 rounded-2xl animate-pulse"></div>
             </div>
         </div>
     )
