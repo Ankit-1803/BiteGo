@@ -1,16 +1,135 @@
-# React + Vite
+🚀 Features
+🏠 Home Page
+Displays food categories (What's on your mind?)
+Shows Top Restaurant Chains
+Displays Restaurants with Online Food Delivery
+Smooth horizontal sliders for categories and restaurants
+Responsive UI for desktop and mobile devices
+📍 Location Search
+Search and select delivery location
+Selected address is displayed in the navigation bar
+Address panel with smooth slide-in animation
+Location suggestions from predefined data
+🍽 Restaurant Listing
+Fetches live restaurant data from Swiggy API (using CORS proxy)
+Displays:
+Restaurant Name
+Rating
+Delivery Time
+Cuisine
+Area
+Restaurant Image
+🍕 Restaurant Menu
+Dynamic restaurant menu using React Router
+Displays:
+Restaurant details
+Offers
+Recommended dishes
+Menu categories
+Dish images
+Ratings
+Prices
+Description
+Expand/Collapse menu sections
+Dish search inside restaurant menu
+🔍 Search
+Search restaurants
+Search food items
+Instant filtering while typing
+Displays matching restaurants and dishes
+🛒 Cart
+Add food items to cart
+Remove items from cart
+Cart item count in navbar
+Persistent cart using Local Storage
+Empty cart page
+Price calculation
+Proceed to Place Order (UI)
+🔐 Google Authentication
+Login using Firebase Google Authentication
+Displays user profile picture
+Displays user name after login
+Authentication state managed using Redux Toolkit
+📦 State Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Implemented using Redux Toolkit
 
-Currently, two official plugins are available:
+Features managed by Redux:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Cart Items
+Google Authentication
+Search Bar Visibility
+Login Modal Visibility
+Filters
+⚡ Performance Optimizations
+React Lazy Loading
+Suspense
+Component based architecture
+Custom Hooks
+Code splitting
+🎨 UI & UX
+Responsive design
+Smooth animations
+Modern card layouts
+Sticky navigation bar
+Hover effects
+Loading shimmer UI
+Clean mobile-friendly interface
+🔄 Routing
 
-## React Compiler
+Implemented using React Router DOM
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Routes include:
 
-## Expanding the Oxlint configuration
+Home
+Restaurant Menu
+Search
+Cart
+💾 Local Storage
+Stores cart data
+Persists cart after page refresh
+🔥 Firebase
+Google Sign-In Authentication
+Firebase Authentication SDK
+🧩 Custom React Hooks
+useRestaurantData
+Reusable data fetching logic
+📱 Responsive Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Optimized for:
+
+Desktop
+Tablet
+Mobile
+🛠 Tech Stack
+React.js
+React Router DOM
+Redux Toolkit
+Firebase Authentication
+Tailwind CSS
+JavaScript (ES6+)
+HTML5
+CSS3
+Vite
+Local Storage API
+📂 Project Highlights
+✔ Dynamic Restaurant Listing
+✔ Dynamic Restaurant Menu
+✔ Google Authentication
+✔ Live Search
+✔ Cart Management
+✔ Responsive Design
+✔ Redux State Management
+✔ Lazy Loading
+✔ Custom Hooks
+✔ Persistent Cart
+✔ Reusable Components
+✔ Modern UI
+✔ Shimmer Loading Effect
+📸 Screens
+🏠 Home Page
+🔍 Search Page
+🍽 Restaurant Menu
+🛒 Cart Page
+🔐 Google Login
+📍 Location Selection
