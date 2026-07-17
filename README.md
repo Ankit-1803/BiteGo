@@ -1,6 +1,6 @@
 # 🍔 BiteGo
 
-A modern Swiggy-inspired Food Ordering Web Application built using **React.js**, **Redux Toolkit**, **Firebase Authentication**, **Tailwind CSS**, and **Vite**.
+A modern Food Ordering Web Application built using **React.js**, **Redux Toolkit**, **Firebase Authentication**, **Tailwind CSS**, and **Vite**.
 
 ---
 
